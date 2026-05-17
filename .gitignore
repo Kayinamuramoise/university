@@ -1,0 +1,9 @@
+//add all env from client and server and node modules
+
+# Environment variables
+.env 
+# Node modules
+node_modules/
+# Build output
+dist/
+
